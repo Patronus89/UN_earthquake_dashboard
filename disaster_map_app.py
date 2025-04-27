@@ -15,12 +15,12 @@ st.markdown("**Date:** 28 March 2025  \n"
             "**Epicenter:** Near Mandalay")
 
 # --- Add Brief Context ---
-st.markdown(\"\"\"
+st.markdown("""
 On 28 March 2025, a massive 7.7-magnitude earthquake struck central Myanmar, resulting in widespread loss of life and destruction of infrastructure.  
 Over 15 million people have been affected, including 1.6 million internally displaced persons (IDPs) who were already vulnerable due to ongoing conflicts.  
 
 This dashboard allows responders and coordinators to **visualize the damage**, **identify urgent needs**, and **support relief operations** based on real-time information.
-\"\"\")
+""")
 
 st.markdown("---")
 
