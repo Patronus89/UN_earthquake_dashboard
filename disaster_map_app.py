@@ -8,7 +8,7 @@ from streamlit_folium import st_folium
 st.set_page_config(page_title="Myanmar Earthquake Dashboard", layout="wide")
 
 # --- Add UN Logo and Title ---
-st.image("un_logo.png", width=100)
+st.image("undss-logo.png", width=100)
 st.title("Myanmar Earthquake Emergency Dashboard")
 st.markdown("**Date:** 28 March 2025  \n"
             "**Magnitude:** 7.7  \n"
